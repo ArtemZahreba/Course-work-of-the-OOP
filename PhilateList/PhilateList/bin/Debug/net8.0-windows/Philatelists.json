@@ -1,0 +1,90 @@
+{
+  "Philatelists": [
+    {
+      "Name": "user_1",
+      "Country": "usa",
+      "ContactDetails": "user_1@gmail.com",
+      "RareStamps": [
+        {
+          "Country": "usa",
+          "FaceValue": 10000.0,
+          "YearOfIssue": 1986,
+          "Circulation": 10,
+          "Features": "Nestled in the heart of a picturesque valley, this charming cottage offers a serene retreat from the hustle and bustle of daily life."
+        },
+        {
+          "Country": "UK",
+          "FaceValue": 1000.0,
+          "YearOfIssue": 1990,
+          "Circulation": 100,
+          "Features": "Nestled in the heart of a picturesque valley, this charming cottage offers a serene retreat from the hustle and bustle of daily life."
+        },
+        {
+          "Country": "IT",
+          "FaceValue": 100.0,
+          "YearOfIssue": 1999,
+          "Circulation": 1000,
+          "Features": "Nestled in the heart of a picturesque valley, this charming cottage offers a serene retreat from the hustle and bustle of daily life."
+        },
+        {
+          "Country": "IT",
+          "FaceValue": 1273.0,
+          "YearOfIssue": 1999,
+          "Circulation": 1000,
+          "Features": "Nestled in the heart of a picturesque valley, this charming cottage offers a serene retreat from the hustle and bustle of daily life."
+        },
+        {
+          "Country": "IT",
+          "FaceValue": 2000.0,
+          "YearOfIssue": 1999,
+          "Circulation": 1000,
+          "Features": "Nestled in the heart of a picturesque valley, this charming cottage offers a serene retreat from the hustle and bustle of daily life."
+        },
+        {
+          "Country": "IT",
+          "FaceValue": 2000.0,
+          "YearOfIssue": 2005,
+          "Circulation": 1000,
+          "Features": "Nestled in the heart of a picturesque valley, this charming cottage offers a serene retreat from the hustle and bustle of daily life."
+        },
+        {
+          "Country": "IT",
+          "FaceValue": 2000.0,
+          "YearOfIssue": 2003,
+          "Circulation": 1000,
+          "Features": "Nestled in the heart of a picturesque valley, this charming cottage offers a serene retreat from the hustle and bustle of daily life."
+        }
+      ]
+    },
+    {
+      "Name": "user_2",
+      "Country": "uk",
+      "ContactDetails": "user_2@gmail.com",
+      "RareStamps": []
+    },
+    {
+      "Name": "user_3",
+      "Country": "ua",
+      "ContactDetails": "user_3@gmail.com",
+      "RareStamps": []
+    },
+    {
+      "Name": "user_4",
+      "Country": "pl",
+      "ContactDetails": "user_4@gmail.com",
+      "RareStamps": []
+    },
+    {
+      "Name": "user_5",
+      "Country": "it",
+      "ContactDetails": "user_5@gmail.com",
+      "RareStamps": []
+    },
+    {
+      "Name": "new_user",
+      "Country": "UA",
+      "ContactDetails": "new_user@gmail.com",
+      "RareStamps": []
+    }
+  ]
+}
